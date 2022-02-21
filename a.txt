@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lange="eng">
+  <head>
+    <meta charset="utf-8" 
+  </head>
+  <body background="back.png">
+	
+	<center>
+		<h1 style="color:#26256e" style="front-style:inherit" >You in Gmae Stats</h1>
+		<img src="stas.jpeg">	
+		<h2 style="color:#a3317d">About our Game Stats</h2>
+		<strong>
+			<p style="color:#a3317d">Welcome to Game Stats-Tracking game stats and Leaderboards.</p>
+			<p style="color:#a3317d"> On our Games Leaderboards! We track Games on Xbox, Playstation and PC! We track all the Game stats available, leave</p>	
+			<p style="color:#a3317d">your page open to auto-refresh and capture Game match history. See all your Games season stats, and how you rank in the world.</p>
+			<p style="color:#a3317d"> We rank more Games than any site out there! Make sure to check out all our Games on your profile.</p>
+		</strong>	
+	</center>
+	<hr align="left" color="#000000">	
+	<p><strong>All rights reserved</strong></p>
+		
+  </body>
+</html>
